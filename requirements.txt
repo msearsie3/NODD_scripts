@@ -8,7 +8,7 @@ requests == 2.31.0
 netCDF4 == 1.6.4
 metpy == 1.5.1
 h5py == 3.10.0
-numcodes
+numcodecs
 s3fs == 2023.1.0
 google == 3.0.0
 google.cloud.storage
