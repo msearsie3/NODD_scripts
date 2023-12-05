@@ -19,5 +19,5 @@ scipy==1.2.3
 boto3 == 1.24.59
 pytz == 2023.3.post1
 six == 1.16.0
-pyart
+arm_pyart
 nexradaws == 1.1
